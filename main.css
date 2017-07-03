@@ -41,3 +41,7 @@ a.create-new-account {
 	margin-bottom: 20rem;
 	text-align: center;
 }
+
+input.signin-checkbox {
+	margin-top: .38rem;
+}
